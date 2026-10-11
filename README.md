@@ -28,7 +28,7 @@ A literature review and mechanistic dataset comparing how 38 viruses enter cells
 
 **[Agent Gym](https://github.com/jjbaloo2023/agent-gym)**
 
-A test system for agents that use scientific software. It records agent actions, tool results, failures, and corrections in CAD and CFD workflows. Current experiments test checkpoint restart and recovery from a stalled solver. The next step is to compare results with physical reference data.
+This is a repo I built to test how different agent pipelines perform on multicomponent, long-horizon scientific tasks.
 
 ## Outside of work
 
