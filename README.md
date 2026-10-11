@@ -10,6 +10,8 @@ I’m a bioengineer excited about creating workflows and pipelines to solve hard
 
 - [Mechanical Regulation of Endocytosis: New Insights and Recent Advances](https://pubmed.ncbi.nlm.nih.gov/32402120/) · 2020
 
+- [Understanding Influenza A Virus Entry Through Lattice Light Sheet Microscopy](https://www.zeiss.com/microscopy/en/resources/insights-hub/life-sciences/influenza-a-virus-entry-lattice-light-sheet-microscopy.html) · ZEISS, 2023
+
 I work in biopharmaceutical development at Zoetis, where I wear two hats. I lead upstream process development for monoclonal antibodies. I also co-lead the computational fluid dynamics (CFD) team, supporting work across pharmaceuticals, biopharmaceuticals, and diagnostics. I use agentic AI tools to accelerate workflow development and help scientists do better science.
 
 I’m interested in workflows that improve as more data and compute become available, rather than depend on an expanding set of domain-specific heuristics. [(Rich Sutton, 2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
