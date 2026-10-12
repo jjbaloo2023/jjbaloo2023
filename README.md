@@ -30,6 +30,8 @@ A literature review and mechanistic dataset comparing how 38 viruses enter cells
 
 This is a repo I built to test how different agent pipelines perform on multicomponent, long-horizon scientific tasks.
 
+The goal is to see how agents connect scientific tools, handle failures, resume interrupted work, and check whether their results are scientifically valid. Runs preserve inputs, actions, tool outputs, checkpoints, and verification evidence so the workflow can be inspected and compared.
+
 ## Outside of work
 
 I love spending time with my family in West Michigan. I also love tinkering and learning new things, whether that means figuring out where plants should go in my garden beds or working through plumbing and electrical code requirements during a home renovation.
